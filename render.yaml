@@ -13,6 +13,6 @@ services:
       - key: JWT_SECRET
         generateValue: true
       - key: RAZORPAY_KEY_ID
-        sync: false
+        value: rzp_test_SmmzYqLPnPy6Js
       - key: RAZORPAY_KEY_SECRET
-        sync: false
+        value: QCbJBvpsKYjYtLLu7UryI8iZ
